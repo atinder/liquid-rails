@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'rails',    ">= 5.0.6"
   spec.add_dependency 'liquid',   '~> 5.4.0'
-  spec.add_dependency 'kaminari', '~> 1.2.2'
+  spec.add_dependency 'kaminari', '>= 1.0'
 end
